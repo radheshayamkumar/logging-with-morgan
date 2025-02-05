@@ -1,6 +1,6 @@
 # Logging with Morgan
 
-![Morgan Logo](https://raw.githubusercontent.com/expressjs/morgan/master/media/morgan-logo.png)
+![Morgan Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/320px-Expressjs.png)
 
 ## Overview
 
@@ -15,8 +15,17 @@ This project demonstrates how to integrate **Morgan** with **Winston** for struc
 
 ## Installation
 
-Clone the repository:
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+- **Node.js** (v14 or later)
+- **MongoDB Atlas** (or a local MongoDB instance)
+
+### Clone the Repository
 
 ```sh
 git clone https://github.com/radheshayamkumar/logging-with-morgan.git
 cd logging-with-morgan
+
+
